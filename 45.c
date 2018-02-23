@@ -13,6 +13,5 @@ int main()
      Count = Count + 1;  
   }
  
-  printf("\n Number of Digits in a Given Number = %d", Count);
   return 0;
 }
